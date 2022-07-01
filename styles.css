@@ -1,0 +1,176 @@
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#home-image {
+    width: 70%;
+    height: auto;
+}
+
+#pasta-image {
+    width: 70%;
+    height: auto;
+    transform: rotate(270deg);
+}
+
+#pancake-image {
+    width: 80%;
+    height: auto;
+}
+
+#burger-image {
+    width: 70%;
+    height: auto;
+}
+
+h1 {
+    font-size: 46px;
+    font-family: Papyrus, Helevetica, san-serif;
+    text-align: center;
+    font-weight: 800;
+}
+
+#links-homepage {
+    font-size: 28px;
+    font-family: Papyrus, Helevetica, san-serif;
+    font-weight: 500px;
+    text-align: center;
+}
+
+.link {
+    font-size: 16px;
+    color: #ffffff;
+    font-family: Papyrus, Helevetica, san-serif;
+    text-decoration: none;
+}
+
+.links-more {
+    font-size: 22px;
+    font-family: Papyrus, Helevetica, san-serif;
+    font-weight: 500px; 
+    text-align: center;
+}
+
+.home-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.home-button h3 {
+    font-family: Papyrus, Helevetica, san-serif;
+    color:#ffffff;
+}
+
+.button-first {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(102, 145, 85, 0.85);
+}
+
+.button-second {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(253, 133, 119, 0.85);
+}
+
+.button-third {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(70, 177, 239, 0.85);
+}
+
+.button-fourth {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(236, 193, 100, 0.758);
+}
+
+#body-1 {
+    background-color: rgb(234, 228, 228);
+}
+
+#body-2 {
+    background-color: rgb(246, 195, 140);
+}
+
+#body-3 {
+    background-color: hwb(55 43% 3%);
+}
+
+#body-4 {
+    background-color: rgb(167, 188, 128);
+}
+
+.styled{
+    list-style: none;
+}
+  
+    .styled li:nth-child(1):before {
+    content: "🍽️";
+    }
+
+.description {
+    font-family: Papyrus, Helevetica, san-serif;
+    font-size: 26px;
+}
+
+.text {
+    font-family: Papyrus, Helevetica, san-serif;
+    font-size: 16px;
+}
+
+.ingridients,.steps {
+    font-family: Papyrus, Helevetica, san-serif;
+    font-size: 20px;
+}
+
+.ul-list li {
+    font-family: Papyrus, Helevetica, san-serif;
+    font-size: 14px;
+}
+
+.ol-list li {
+    font-family: Papyrus, Helevetica, san-serif;
+    font-size: 14px;
+}
+
+.styled.first :hover {
+    background-color: rgb(242, 128, 17);
+    color: #ffffff;
+}
+
+.styled.second :hover {
+    background-color: rgba(14, 156, 57, 0.49);
+    color: #ffffff;
+}
+
+.styled.third :hover {
+    background-color: rgba(137, 84, 11, 0.605);
+    color: #ffffff;
+}
+
+.styled.fourth :hover {
+    background-color: rgba(192, 52, 10, 0.605);
+    color: #ffffff;
+}
+
+.home-button :hover {
+    background-color: #ffffff;
+    color: black;
+}
+
+
+
+
+
+
+
+    
